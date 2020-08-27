@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brucewu03.github.io/test.github.io/</id>
     <title>Bruce&apos;s Profile</title>
-    <updated>2020-08-27T12:46:51.482Z</updated>
+    <updated>2020-08-27T12:50:37.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://brucewu03.github.io/test.github.io/"/>
     <link rel="self" href="https://brucewu03.github.io/test.github.io/atom.xml"/>
@@ -10,6 +10,39 @@
     <logo>https://brucewu03.github.io/test.github.io/images/avatar.png</logo>
     <icon>https://brucewu03.github.io/test.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Bruce&apos;s Profile</rights>
+    <entry>
+        <title type="html"><![CDATA[C4D Tutorials]]></title>
+        <id>https://brucewu03.github.io/test.github.io/post/c4d-tutorials/</id>
+        <link href="https://brucewu03.github.io/test.github.io/post/c4d-tutorials/">
+        </link>
+        <updated>2020-08-27T12:49:23.000Z</updated>
+        <content type="html"><![CDATA[<p>1<br>
+2<br>
+3</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ae Tutorials]]></title>
+        <id>https://brucewu03.github.io/test.github.io/post/ae-tutorials/</id>
+        <link href="https://brucewu03.github.io/test.github.io/post/ae-tutorials/">
+        </link>
+        <updated>2020-08-27T12:48:39.000Z</updated>
+        <content type="html"><![CDATA[<p>1<br>
+2<br>
+3</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pr Tutorials]]></title>
+        <id>https://brucewu03.github.io/test.github.io/post/pr-tutorials/</id>
+        <link href="https://brucewu03.github.io/test.github.io/post/pr-tutorials/">
+        </link>
+        <updated>2020-08-27T12:48:30.000Z</updated>
+        <content type="html"><![CDATA[<p>1<br>
+2<br>
+3</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Creation]]></title>
         <id>https://brucewu03.github.io/test.github.io/post/dong-hua/</id>
@@ -20,25 +53,12 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tutorials]]></title>
+        <title type="html"><![CDATA[Au Tutorials]]></title>
         <id>https://brucewu03.github.io/test.github.io/post/jiao-cai/</id>
         <link href="https://brucewu03.github.io/test.github.io/post/jiao-cai/">
         </link>
         <updated>2020-08-27T12:33:25.000Z</updated>
-        <content type="html"><![CDATA[<p>Au:<br>
-1<br>
-2<br>
-3<br>
-Pr<br>
-1<br>
-2<br>
-3<br>
-C4D<br>
-1<br>
-2<br>
-3<br>
-Ae<br>
-1<br>
+        <content type="html"><![CDATA[<p>1<br>
 2<br>
 3</p>
 ]]></content>
