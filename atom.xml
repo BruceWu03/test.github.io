@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brucewu03.github.io/test.github.io/</id>
     <title>Bruce&apos;s Profile</title>
-    <updated>2020-08-29T15:24:07.231Z</updated>
+    <updated>2020-08-29T15:25:30.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://brucewu03.github.io/test.github.io/"/>
     <link rel="self" href="https://brucewu03.github.io/test.github.io/atom.xml"/>
@@ -54,7 +54,7 @@
         <content type="html"><![CDATA[<h3 id="summary">Summary</h3>
 <ul>
 <li>'How to make a 20<sup>th</sup> Fox logo in C4D'</li>
-<li>Teach about basic modeling technique</li>
+<li>Teaching about basic modeling technique</li>
 <li>Designed for noobs, easy to understand<br>
 <a href="https://www.bilibili.com/video/BV1FJ411P76b" title="20th Fox">Link</a></li>
 </ul>
