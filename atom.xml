@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brucewu03.github.io/test.github.io/</id>
     <title>Bruce&apos;s Profile</title>
-    <updated>2020-08-29T05:13:43.889Z</updated>
+    <updated>2020-08-29T15:04:56.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://brucewu03.github.io/test.github.io/"/>
     <link rel="self" href="https://brucewu03.github.io/test.github.io/atom.xml"/>
@@ -34,8 +34,15 @@
         <link href="https://brucewu03.github.io/test.github.io/post/3d-animation/">
         </link>
         <updated>2020-08-27T12:53:38.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="https://www.bilibili.com/video/BV1Cz4y1Q7a9/" title="Bilibili">Link</a><br>
-Certificate</p>
+        <content type="html"><![CDATA[<h3 id="summary">Summary</h3>
+<ul>
+<li>solo project for the final film project of Drama Film and Television 11</li>
+<li>1 day planning, 2 days researching, 7 days animating, 1 day final editing</li>
+<li>won 2 prizes 'Best in Editing' and 'Best in Genre'</li>
+</ul>
+<p><a href="https://www.bilibili.com/video/BV1Cz4y1Q7a9/" title="Bilibili">Link</a></p>
+<figure data-type="image" tabindex="1"><img src="https://brucewu03.github.io/test.github.io//post-images/1598706902681.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://brucewu03.github.io/test.github.io//post-images/1598706918056.png" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
@@ -44,9 +51,13 @@ Certificate</p>
         <link href="https://brucewu03.github.io/test.github.io/post/c4d-tutorials/">
         </link>
         <updated>2020-08-27T12:49:23.000Z</updated>
-        <content type="html"><![CDATA[<p>1<br>
-2<br>
-3</p>
+        <content type="html"><![CDATA[<h3 id="summary">Summary</h3>
+<ul>
+<li>'How to make a 20<sup>th</sup> Fox logo in C4D'</li>
+<li>Teach about basic modeling technique</li>
+<li>Designed for noobs, easy to understand<br>
+<a href="https://www.bilibili.com/video/BV1FJ411P76b" title="20th Fox">Link</a></li>
+</ul>
 ]]></content>
     </entry>
     <entry>
@@ -55,9 +66,37 @@ Certificate</p>
         <link href="https://brucewu03.github.io/test.github.io/post/ae-tutorials/">
         </link>
         <updated>2020-08-27T12:48:39.000Z</updated>
-        <content type="html"><![CDATA[<p>1<br>
-2<br>
-3</p>
+        <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th style="text-align:left">Title</th>
+<th>Summary</th>
+<th style="text-align:right">Views</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><a href="https://www.bilibili.com/video/BV1kt411P7aW" title="Saber">Ae: Saber</a></td>
+<td>Using Alpha channel in Saber &amp; Keying</td>
+<td style="text-align:right">89</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://www.bilibili.com/video/BV1At411P7X2" title="3D Composition">Ae: 3D Composition</a></td>
+<td>Using 'Track Camera' to analyze coordinates, applying to 3D objects</td>
+<td style="text-align:right">388</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://www.bilibili.com/video/BV11t411A76Z" title="Beats Matching">Ae: Beats Motivating Lights</a></td>
+<td>Using audiowave as keyframe to motivate Optical Flares lights</td>
+<td style="text-align:right">547</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://www.bilibili.com/video/BV1J4411n7Xq" title="Loading Animation">Ae: 'Loading' Animation</a></td>
+<td>Using slider to motivate text</td>
+<td style="text-align:right">926</td>
+</tr>
+</tbody>
+</table>
 ]]></content>
     </entry>
     <entry>
@@ -66,9 +105,47 @@ Certificate</p>
         <link href="https://brucewu03.github.io/test.github.io/post/pr-tutorials/">
         </link>
         <updated>2020-08-27T12:48:30.000Z</updated>
-        <content type="html"><![CDATA[<p>1<br>
-2<br>
-3</p>
+        <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th style="text-align:left">Title</th>
+<th>Summary</th>
+<th style="text-align:right">Views</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><a href="https://www.bilibili.com/video/BV1N7411Y74a" title="Non-Linear Speed Change">Pr: Non-Linear Speed Change</a></td>
+<td>Using curve to describe the magnitude of the change in velocity</td>
+<td style="text-align:right">9819</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://www.bilibili.com/video/BV1dJ411Q7RG" title="Inferior/Disturbed Sound Effect">Pr: Inferior/Disturbed Sound Effect</a></td>
+<td>Using 'Distortion' to make audio sound broken</td>
+<td style="text-align:right">659</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://www.bilibili.com/video/BV1WE41197pa" title="Beats Matching">Pr: 4 Ways Beat Matching</a></td>
+<td>4 ways to match beats, with different level of accurateness and simplicity</td>
+<td style="text-align:right">27392</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://www.bilibili.com/video/BV1vx411f7gd" title="Hitchcock zoom">Pr: Hitchcock zoom</a></td>
+<td>Using translation to create Hitchcock zoom</td>
+<td style="text-align:right">2224</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://www.bilibili.com/video/BV1nx411R7Nm" title="Render Setting">Pr: Render Setting</a></td>
+<td>Advance render setting, including Bitrate and render algorithm: CPR VBR</td>
+<td style="text-align:right">491</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://www.bilibili.com/video/BV1Db411V7YK" title="Under Water Sound Effect">Pr: Under Water Sound Effect</a></td>
+<td>Using 'Lowpass' to filt a certain amount of sound frequency</td>
+<td style="text-align:right">1745</td>
+</tr>
+</tbody>
+</table>
 ]]></content>
     </entry>
     <entry>
@@ -77,9 +154,47 @@ Certificate</p>
         <link href="https://brucewu03.github.io/test.github.io/post/jiao-cai/">
         </link>
         <updated>2020-08-27T12:33:25.000Z</updated>
-        <content type="html"><![CDATA[<p>1<br>
-2<br>
-3</p>
+        <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th style="text-align:left">Title</th>
+<th>Summary</th>
+<th style="text-align:right">Views</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><a href="https://www.bilibili.com/video/BV1Ct411S7ZW" title="Denoise">Au: Denoise</a></td>
+<td>Capture noise simple aand use it to denoise</td>
+<td style="text-align:right">31482</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://www.bilibili.com/video/BV1cJ411k7Dm" title="Advance Denoise">Au: Advance Denoise</a></td>
+<td>Choose sound frequency to denoise more precisely</td>
+<td style="text-align:right">399</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://www.bilibili.com/video/BV12b411M78t" title="Basic Remix">Au: Basic Remix</a></td>
+<td>Seamlessly change the length of music by analyzing</td>
+<td style="text-align:right">331</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://www.bilibili.com/video/BV1fb411Y7td" title="Voice Extracting/Removing">Au: Voice Extracting/Removing</a></td>
+<td>Using two complementary sounds to cancel out the music, human voice remains</td>
+<td style="text-align:right">4599</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://www.bilibili.com/video/BV1bt411x7ro" title="Pitch Shifting">Au: Pitch Shifting</a></td>
+<td>Using 'Pitch Shifter' to change the pitch in order to make it match the melody</td>
+<td style="text-align:right">32431</td>
+</tr>
+<tr>
+<td style="text-align:left"><a href="https://www.bilibili.com/video/BV1Vt411i7Sn" title="Under Water Sound Effect">Au: Fake Voice</a></td>
+<td>Using effectors to change a male's voice into female's</td>
+<td style="text-align:right">6030</td>
+</tr>
+</tbody>
+</table>
 ]]></content>
     </entry>
     <entry>
