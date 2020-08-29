@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brucewu03.github.io/test.github.io/</id>
     <title>Bruce&apos;s Profile</title>
-    <updated>2020-08-29T03:12:55.304Z</updated>
+    <updated>2020-08-29T04:03:33.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://brucewu03.github.io/test.github.io/"/>
     <link rel="self" href="https://brucewu03.github.io/test.github.io/atom.xml"/>
@@ -37,7 +37,7 @@ Certificate</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[C4D Tutorials]]></title>
+        <title type="html"><![CDATA[Cinema 4D Tutorials]]></title>
         <id>https://brucewu03.github.io/test.github.io/post/c4d-tutorials/</id>
         <link href="https://brucewu03.github.io/test.github.io/post/c4d-tutorials/">
         </link>
@@ -48,7 +48,7 @@ Certificate</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ae Tutorials]]></title>
+        <title type="html"><![CDATA[Adobe After Effect Tutorials  ]]></title>
         <id>https://brucewu03.github.io/test.github.io/post/ae-tutorials/</id>
         <link href="https://brucewu03.github.io/test.github.io/post/ae-tutorials/">
         </link>
@@ -59,7 +59,7 @@ Certificate</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pr Tutorials]]></title>
+        <title type="html"><![CDATA[Adobe Premiere Pro Tutorials]]></title>
         <id>https://brucewu03.github.io/test.github.io/post/pr-tutorials/</id>
         <link href="https://brucewu03.github.io/test.github.io/post/pr-tutorials/">
         </link>
@@ -70,7 +70,7 @@ Certificate</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Au Tutorials]]></title>
+        <title type="html"><![CDATA[Adobe Audition Tutorials]]></title>
         <id>https://brucewu03.github.io/test.github.io/post/jiao-cai/</id>
         <link href="https://brucewu03.github.io/test.github.io/post/jiao-cai/">
         </link>
