@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brucewu03.github.io/test.github.io/</id>
     <title>Bruce&apos;s Profile</title>
-    <updated>2020-08-29T15:04:56.279Z</updated>
+    <updated>2020-08-29T15:21:17.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://brucewu03.github.io/test.github.io/"/>
     <link rel="self" href="https://brucewu03.github.io/test.github.io/atom.xml"/>
@@ -180,16 +180,16 @@
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://www.bilibili.com/video/BV1fb411Y7td" title="Voice Extracting/Removing">Au: Voice Extracting/Removing</a></td>
-<td>Using two complementary sounds to cancel out the music, human voice remains</td>
+<td>Using two complementary sounds to delete the music, human voice remains</td>
 <td style="text-align:right">4599</td>
 </tr>
 <tr>
 <td style="text-align:left"><a href="https://www.bilibili.com/video/BV1bt411x7ro" title="Pitch Shifting">Au: Pitch Shifting</a></td>
-<td>Using 'Pitch Shifter' to change the pitch in order to make it match the melody</td>
+<td>Using 'Pitch Shifter' to change the pitch in order to match the melody</td>
 <td style="text-align:right">32431</td>
 </tr>
 <tr>
-<td style="text-align:left"><a href="https://www.bilibili.com/video/BV1Vt411i7Sn" title="Under Water Sound Effect">Au: Fake Voice</a></td>
+<td style="text-align:left"><a href="https://www.bilibili.com/video/BV1Vt411i7Sn" title="Fake Voice"><s>Au: Fake Voice</s></a></td>
 <td>Using effectors to change a male's voice into female's</td>
 <td style="text-align:right">6030</td>
 </tr>
@@ -203,8 +203,13 @@
         <link href="https://brucewu03.github.io/test.github.io/post/personal-website/">
         </link>
         <updated>2020-08-26T15:43:45.000Z</updated>
-        <content type="html"><![CDATA[<p>1<br>
-2</p>
+        <content type="html"><![CDATA[<h3 id="summary">Summary</h3>
+<ul>
+<li>'How to use DeepFake to replace face'</li>
+<li>Designed for noobs, easy to understand<br>
+<a href="https://www.bilibili.com/video/BV1CJ411N7KR" title="Tutorial">Tutorial</a><br>
+<a href="https://www.bilibili.com/video/BV1qV411U7Cn" title="Meme">Trump Meme</a></li>
+</ul>
 ]]></content>
     </entry>
 </feed>
