@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brucewu03.github.io/test.github.io/</id>
     <title>Bruce&apos;s Profile</title>
-    <updated>2020-08-29T15:21:17.931Z</updated>
+    <updated>2020-08-29T15:24:07.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://brucewu03.github.io/test.github.io/"/>
     <link rel="self" href="https://brucewu03.github.io/test.github.io/atom.xml"/>
@@ -206,6 +206,7 @@
         <content type="html"><![CDATA[<h3 id="summary">Summary</h3>
 <ul>
 <li>'How to use DeepFake to replace face'</li>
+<li>An AI algorithm created using Tensorflow (Google AI)</li>
 <li>Designed for noobs, easy to understand<br>
 <a href="https://www.bilibili.com/video/BV1CJ411N7KR" title="Tutorial">Tutorial</a><br>
 <a href="https://www.bilibili.com/video/BV1qV411U7Cn" title="Meme">Trump Meme</a></li>
