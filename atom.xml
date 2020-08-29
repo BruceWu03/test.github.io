@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://brucewu03.github.io/test.github.io/</id>
     <title>Bruce&apos;s Profile</title>
-    <updated>2020-08-29T04:03:33.741Z</updated>
+    <updated>2020-08-29T04:49:20.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://brucewu03.github.io/test.github.io/"/>
     <link rel="self" href="https://brucewu03.github.io/test.github.io/atom.xml"/>
@@ -16,14 +16,16 @@
         <link href="https://brucewu03.github.io/test.github.io/post/documentary-uk-government-structure/">
         </link>
         <updated>2020-08-27T12:56:36.000Z</updated>
-        <content type="html"><![CDATA[<ul>
-<li>3 week 3D Animation summer camp in New York Film Academy.</li>
-<li>Selected by NYFA and uploaded to NYFA offcial website.</li>
-<li>It is designed with 4 different endings.</li>
+        <content type="html"><![CDATA[<h3 id="summary">Summary</h3>
+<ul>
+<li>Produced during 3 weeks 3D Animation summer camp (online) in New York Film Academy.</li>
+<li>Published by NYFA China Offcial Social Media. (Selected as unique portfolio)</li>
+<li>Designed with 4 different endings.</li>
 </ul>
-<h3 id="summary">Summary</h3>
+<h3 id="story">Story</h3>
 <p> A person wakes up in a cell, can't remember anything but listen and follow what the radio says. At last he finds out his is trapped...</p>
-<p><a href="https://www.bilibili.com/video/BV1Hz4y1Q7Ec/" title="Bilibili">Link</a></p>
+<p><a href="https://mp.weixin.qq.com/s/PiI8VxO3Dg01IUWNQKgC1g" title="NYFA">NYFA China Social Media</a>  <em>(Please use IE/Chrome browser to open)</em></p>
+<p><a href="https://www.bilibili.com/video/BV1Hz4y1Q7Ec/" title="Bilibili">Source Link</a></p>
 ]]></content>
     </entry>
     <entry>
